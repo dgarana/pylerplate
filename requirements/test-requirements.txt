@@ -1,2 +1,2 @@
 # Testing requirements
-pytest
+pytest==2.8.7

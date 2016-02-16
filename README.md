@@ -10,6 +10,8 @@ enough to push it to your own repo, this is already done on this repository.
 
 ### Tests samples
 Because with tests, everything's better.
+Using tox you could test with different packages versions, python versions...
+etc. You could even create autodoc everytime you execute it. Awesome!
 
 ### Setup.py
 Even there's also an example of how to create your own python executable files!

@@ -1,4 +1,5 @@
-# pylerplate
+# pylerplate [![Build Status](https://travis-ci.org/dgarana/pylerplate.svg?branch=master)](https://travis-ci.org/dgarana/pylerplate)
+
 Python Script Boilerplate
 
 ## What is pylerplate?
@@ -7,6 +8,8 @@ Pylerplate is your base repository to create your own amazing scripts.
 ### Basic skeleton
 You don't need to worry anymore thinking on if your file structure is good
 enough to push it to your own repo, this is already done on this repository.
+
+Just edit and play!
 
 ### Tests samples
 Because with tests, everything's better.
